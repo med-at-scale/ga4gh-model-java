@@ -1,0 +1,4 @@
+See tags for GA4GH schemas versions:
+
+* jar version 0.1.0-SNAPSHOT points to schemas [v0.5.1](https://github.com/med-at-scale/ga4gh-model-java/tree/schemas-v0.5.1)
+* jar version 0.1.1-SNAPSHOT points to schemas [v0.6.0-SNAPSHOT](https://github.com/med-at-scale/ga4gh-model-java/)
