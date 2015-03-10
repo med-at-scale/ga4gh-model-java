@@ -4,7 +4,7 @@ name := "ga4gh-model-java"
 
 crossPaths := false
 
-version := "0.1.0-SNAPSHOT"
+version := "0.1.1-SNAPSHOT" // current version of the schemas is 0.6.0-SNAPSHOT
 
 publishMavenStyle := true
 
